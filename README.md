@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement, Ethical Hacking, Network Security, Photography, Hiking, Biking.
 - 🌱 I’m currently learning Python, Laravel, Kali Linux
 - 💞️ I’m looking to collaborate on anything that makes me curious. 
-- 📫 How to reach me twitter @Kapsona2, email @ mykapsona@hotmail.com, [Linkedin @kapsona](https://www.linkedin.com/in/sunil-kapri-2b2aab9b/)
+- 📫 How to reach me [twitter @Kapsona2](https://twitter.com/Kapsona2), email @ mykapsona@hotmail.com, [Linkedin @kapsona](https://www.linkedin.com/in/sunil-kapri-2b2aab9b/)
 
 <!---
 CapsicumChloride/CapsicumChloride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
